@@ -4,6 +4,7 @@
 
 - [ ] 根目录执行 `pnpm check` 通过
 - [ ] `server/` 执行 `pnpm check` 通过
+- [ ] 根目录执行 `pnpm e2e` 通过
 - [ ] `.env` 已配置 `JWT_SECRET`
 - [ ] 未将真实 `.env` 提交到仓库
 
